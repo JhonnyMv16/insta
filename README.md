@@ -14,6 +14,6 @@ To install the SSL certificate, follow the **[instructions](https://certbot.eff.
 
 ## Vamos instalar?
 
-    cd /home && git clone https://github.com/ronandesign/Install_WhaticketSaaS_Comunidade.git
+    cd /home && git clone url.git do instalador 
 
 
