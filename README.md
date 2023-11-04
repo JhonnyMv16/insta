@@ -14,6 +14,5 @@ To install the SSL certificate, follow the **[instructions](https://certbot.eff.
 
 ## Vamos instalar?
 
-    cd /home && git clone url.git do instalador 
-
+    cd /home && git clone https://github.com/JhonnyMv16/insta.git
 
